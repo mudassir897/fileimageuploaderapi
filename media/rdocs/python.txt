@@ -1,0 +1,49 @@
+:::::::::::::::::  Python  :::::::::::
+(https://www.interviewbit.com/python-interview-questions/)
+-> high level vs low level language
+
+-> What is Python? What are the benefits of using Python
+-> What is a dynamically typed language?
+->  What is an Interpreted language/Compiled language?
+-> What is PEP 8 and why is it important?
+-> What is Scope in Python?
+-> What are modules and packages in Python?
+-> What is the use of self in Python?
+-> What is __init__?
+-> What is docstring in Python?
+-> Explain how can you make a Python Script executable on Unix?
+	(Script file must begin with #!/usr/bin/env python)
+-> What is the difference between Python Arrays and lists?
+
+
+-> How is memory managed in Python?
+-> What are Python namespaces? Why are they used?
+-> What are decorators in Python?
+-> What is lambda in Python? Why is it used?
+-> How do you copy an object in Python?
+-> How do you copy an object in Python? (Shallow Vs Deep Copy)
+-> What is pickling and unpickling?
+-> What are generators in Python?
+-> How are arguments passed by value or by reference in python?
+
+
+-> How do you create a class in Python? 
+-> How does inheritance work in python? Explain it with an example.
+-> Is it possible to call parent class without its instance creation?
+Yes, it is possible if the base class is instantiated by other child classes or if the base class is a static method
+-> Why is finalize used?
+-> How will you check if a class is a child of another class?
+
+Python Pandas Interview Questions
+-> What do you know about pandas?
+-> How are NumPy arrays advantageous over python lists?
+-> What are the differences between pickling and unpickling?
+-> Define GIL.
+-> Differentiate between deep and shallow copies.
+-> What is main function in python? How do you invoke it?
+
+
+-> How is Multithreading achieved in Python?   ( https://intellipaat.com/blog/interview-question/python-interview-questions/) 
+-> What is monkey patching in Python?
+
+
